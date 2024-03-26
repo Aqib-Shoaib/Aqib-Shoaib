@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aqib-Shoaib
 - 👀 I’m interested in web development right now.
-- 🌱 I’m currently React and React Native.
+- 🌱 I’m currently studying React and React Native.
 - 💞️ I’m looking to collaborate on anything special that I have.
 - 📫 How to reach me using my email "bluepitviper@gmail.com".
 
