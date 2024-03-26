@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aqib-Shoaib
-- 👀 I’m interested in programming work of any type as I am a newbie.
-- 🌱 I’m currently learning OOP, Web development, Data Structures and algorithm, and marketing.
+- 👀 I’m interested in web development right now.
+- 🌱 I’m currently React and React Native.
 - 💞️ I’m looking to collaborate on anything special that I have.
 - 📫 How to reach me using my email "bluepitviper@gmail.com".
 
