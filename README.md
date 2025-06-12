@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Aqib-Shoaib<br>👀 I’m interested in web development using MERN stack.<br>🌱 I’m currently studying React front-end libraries like framer-motion etc.<br>💞️ I’m looking to collaborate on anything special related to web development that I have.<br>📫 How to reach me using my email "bluepitviper@gmail.com".
+👋 Hi, I’m @Aqib-Shoaib<br>👀 I’m interested in web development using MERN stack.<br>🌱 I’m currently studying Nextjs<br>💞️ I’m looking to collaborate on anything special related to web development that I have.<br>📫 How to reach me using my email "aqibibnamjid@gmail.com".
 
 
 ## 🌐 Socials:
